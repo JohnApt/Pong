@@ -4,9 +4,10 @@ namespace Pong
 {
 	class Program
 	{
-		static void Main()
-		{
-
+		static void Main() {
+			int x = 1;
+			int y = 2;
+			Console.WriteLine(x + y);
 		}
 
 	}
